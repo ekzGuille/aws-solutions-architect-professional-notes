@@ -1,11 +1,11 @@
 # STS
 
-Assume roles in the same account or in between accounts
+Security Token Service: Assume roles in the same account or in between accounts
 
 ## Steps
 1. Define the role
 2. Define the principals that can access that role
-3. With AWS STS (*Security Token Service*) retrieve and assume the credentials  -> **AssumeRole API**
+3. With AWS STS retrieve and assume the credentials  -> **AssumeRole API**
   * Credentials are valid between 15min and 12h. 
 
 ## Use cases
