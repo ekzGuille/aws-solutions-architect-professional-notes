@@ -16,7 +16,7 @@ Identity Access Management
   * **Access Advisor** (See permissions and when were last accessed)
   * **Access Analyzer** (See resources that are shared with external entity) *P.e: S3 Bucket used by another account*
 * Managed Policy: AdministratorAccess
-  * When a policy has *Action* and *Resorce* on *"*"* it is called **AdministratorAccess**
+  * When a policy has *Action* and *Resorce* on _"*"_ it is called **AdministratorAccess**
   ```json
   {
     "Version": "",
