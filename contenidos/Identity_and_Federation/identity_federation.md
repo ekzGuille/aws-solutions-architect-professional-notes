@@ -26,7 +26,7 @@ Users from outside AWS can access resources
 
 ## Web Identity Federation - Cognito
 * Can create IAM Roles with the least privilege needed
-* Once is logged with the 3rd party Identity Provider, you get a cognito token that has to be passed to STS to get granted temporary credentials
+* Once is logged with the 3rd party Identity Provider, you get a Cognito token that has to be passed to STS to get granted temporary credentials
 * Supports **anonymous users**
 * Supports **MFA**
 
