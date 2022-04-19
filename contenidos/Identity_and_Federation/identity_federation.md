@@ -8,7 +8,7 @@ Users from outside AWS can access resources
   * External Web/Mobile application
 
 ### Types
-* SAML 2.0
+* SAML 2.0 *(Security Assertion Markup Language)*
 * Web Identity Federation with(out) AWS Cognito
 * Custom Identity Broker
 * SSO
