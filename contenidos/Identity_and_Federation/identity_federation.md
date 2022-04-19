@@ -35,7 +35,6 @@ Users from outside AWS can access resources
   * Google -> `${accounts.google.com:sub}`
   * Cognito -> `${cognito-identity.amazonaws.com:sub}`
 
-
 ---
 
 [<small>⬅ Atrás</small>](./index.md)

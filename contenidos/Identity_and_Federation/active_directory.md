@@ -55,3 +55,7 @@
 * No support for RDS SQL server, MFA, AWS SSO
 * No trust relationship
 * Small (500) or large (5000) users
+
+---
+
+[<small>⬅ Atrás</small>](./index.md)
