@@ -37,4 +37,4 @@ Users from outside AWS can access resources
 
 ---
 
-[<small>⬅ Atrás</small>](./index.md)
+[<small>⬅ Go Back</small>](./index.md)

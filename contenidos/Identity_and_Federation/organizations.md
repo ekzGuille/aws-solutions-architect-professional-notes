@@ -36,4 +36,4 @@ Manage multiple accounts at once
 
 ---
 
-[<small>⬅ Atrás</small>](./index.md)
+[<small>⬅ Go Back</small>](./index.md)

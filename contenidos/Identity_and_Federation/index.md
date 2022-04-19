@@ -4,7 +4,8 @@
 3. [Identity Federations](./identity_federation.md)
 4. [Active Directory](./active_directory.md)
 5. [Organizations](./organizations.md)
+6. [SCP](./scp.md)
 
 ---
 
-[<small>⬅ Atrás</small>](./index.md)
+[<small>⬅ Go Back</small>](./index.md)

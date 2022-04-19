@@ -40,4 +40,4 @@ Security Token Service: Assume roles in the same account or in between accounts
 
 ---
 
-[<small>⬅ Atrás</small>](./index.md)
+[<small>⬅ Go Back</small>](./index.md)

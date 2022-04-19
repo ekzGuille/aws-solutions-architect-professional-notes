@@ -89,4 +89,4 @@ Identity Access Management
 
 ---
 
-[<small>⬅ Atrás</small>](./index.md)
+[<small>⬅ Go Back</small>](./index.md)
