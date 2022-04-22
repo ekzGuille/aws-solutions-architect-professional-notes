@@ -89,7 +89,7 @@ Service Control Policies
     }
   }
   ```
-* Can be attached to Organization Root, specific OU or individual Member Account
+* Can be attached to Organization Root, specific OU, or individual Member Account
 
 ### Backup Policies
 * Enables the creation of Backup Plans that define how to backup resources
