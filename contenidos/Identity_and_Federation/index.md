@@ -6,6 +6,7 @@
 5. [Organizations](./organizations.md)
 6. [SCP](./scp.md)
 7. [RAM](./ram.md)
+8. [SSO](./sso.md)
 
 ---
 

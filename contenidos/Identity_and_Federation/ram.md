@@ -18,9 +18,7 @@ Resource Access Manager
 * *(...)*
 
 ## Use cases
-
 ### VPC
-
 * Different Accounts access to the same VPC and **can** "communicate" with each other but **cannot** "view". 
 * As the Network is shared they can "talk" with each other accessing with **private IP**
 * Security groups can be referenced across accounts
