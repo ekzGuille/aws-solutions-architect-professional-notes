@@ -1,6 +1,6 @@
 # Control Tower
 
-Setup a multi-account AWS Environment with **best practices**. Runs on top of **AWS Oranizations**
+Setup a multi-account AWS Environment with **best practices**. Runs on top of **AWS Organizations**
 
 ## Account Factory
 * Automates account provisioning and deployments
@@ -11,4 +11,7 @@ Setup a multi-account AWS Environment with **best practices**. Runs on top of **
 * Guardrail
 	* Preventive (SCPs)
 	* Detective (AWS Config)
-  
+
+---
+
+[<small>⬅ Go Back</small>](./index.md)
