@@ -10,7 +10,7 @@ Key Management Service
 ### Asymmetric
 * (RSA ECC key pairs)
 * Public Key (*Encrypt*) and Private Key (*Decrypt*)
-* Use for Sign operatinos
+* Use for Sign operations
 
 ## Types of KMS Keys
 ### Customer Managed Keys
@@ -43,7 +43,7 @@ Key Management Service
 
 ## Multi-Region Keys
 * Identical keys in different regions
-* Encrypt in one region and Decrypt in other region
+* Encrypt in one region and Decrypt in another region
 * Not global -> Replicas of a Primary one (**only one primary at a time**, replicas can be promoted into primary)
 
 
